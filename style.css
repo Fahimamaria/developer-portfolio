@@ -13,6 +13,12 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
+}
+
+.tn {
+    margin-right: 10%;
+    margin-bottom: 10%;
 }
 
 .tc {
@@ -36,4 +42,10 @@ section {
 .tom {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.ball {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
